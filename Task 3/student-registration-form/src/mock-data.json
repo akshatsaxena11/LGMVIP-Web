@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Rahul Sharma",
+    "address": "3rd street road",
+    "phoneNumber": "9795034321",
+    "email": "rahulsharma@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Jagjeet Sandhu",
+    "address": "sec-4 Gandhinagar ",
+    "phoneNumber": "9112117516",
+    "email": "jagjeetsandhu@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Tony Singh",
+    "address": "11 patel road",
+    "phoneNumber": "7889627516",
+    "email": "tonySingh@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Jahnvi Mathews",
+    "address": "sec-33 mohan nagar",
+    "phoneNumber": "9219762111",
+    "email": "jahanvi102@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Rohit Dhawan",
+    "address": "99 Delhihaat",
+    "phoneNumber": "9732827516",
+    "email": "rohitdhawan12@email.com"
+  }
+]

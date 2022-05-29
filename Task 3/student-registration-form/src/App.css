@@ -1,0 +1,64 @@
+body{
+  background-color: rgb(255, 251, 247);
+}
+.Formcon{
+  background-color:rgba(14, 14, 64, 0.505);
+  padding:1em;
+  width: 50%;
+  margin: auto;
+  
+}
+form{
+  background-color: rgb(184, 216, 255);
+  padding: 1em;
+}
+
+label{
+  font-size: larger;
+ 
+}
+input{
+  width:80%;
+padding:0.5em;
+margin-left:10em;
+
+}
+.app-container{
+background-color: rgb(255, 219, 101);
+padding: 3em;
+}
+table{
+  background-color: rgb(161, 161, 237);
+  width: 100%;
+
+}
+th{
+  background-color:rgb(59, 59, 105) ;
+  color: aliceblue;
+  padding: 0.5em;
+}
+td{
+  padding: 0.5em;
+  color: rgb(43, 55, 66);
+  font-size: large;
+  font-weight: bolder;
+}
+.btn{
+  background-color: rgb(60, 105, 195);
+  padding: 0.5em;
+  width: 80%;
+  margin-top: 2em;
+  margin-left: 7em;
+color: aliceblue;
+font-size: larger;
+font-weight: bolder;
+}
+h2{
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 40px;
+  color: aliceblue;
+  background-color: rgb(255, 174, 74);
+  text-shadow: 3px 3px 3px black;
+  text-align: center;
+}
