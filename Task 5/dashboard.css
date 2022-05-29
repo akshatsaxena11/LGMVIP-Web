@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(219, 246, 246);
+}
+.head{
+    text-align: center;
+    font-size: larger;
+    font-family: arial;
+    font-weight:bolder;
+    color: white;
+    background-color: darkblue;
+    padding: 0.01vh;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24)}
+
+.Fcontainer .head1{
+    background-color: darkblue;
+    margin-top: 2em;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    text-align: center;
+    font-size: 23px;
+    font-family: arial;
+    font-weight:bolder;
+    color: white;
+    padding: 0.1px;
+}
+table{
+    background-color: rgb(200, 205, 215);
+    font-size: 20px;
+    margin: 0 auto;
+    font-family: arial;
+    font-weight:bolder;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+}
+tr{
+    background-color: white;
+
+}
+th{
+    background-color: darkblue;
+    border: 2px solid darkblue;
+    padding: 0.5em;
+    color: white;    
+}
+td{
+padding: 0.4em;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(16, 9, 9);
+}
+
+.Insert{
+    margin-top: 4em ;
+    margin-left: 21.5em;
+
+}
+.btnin{
+    width: 70%;
+    padding: 0.5em;
+    font-size: 20px;
+    background-color: rgb(58, 209, 58);
+    border: 2px solid  rgb(58, 209, 58);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    cursor: pointer;
+}
+
+.btnin a{
+    color: white;
+    text-shadow: 1px 2px 3px  black;
+    font-family: arial;
+    font-weight:bolder;
+    
+}
+.btndel{
+    background-color: rgb(189, 13, 13);
+    border: 2px solid rgb(189, 13, 13) ;
+   
+}
+
+.btndel a{
+    color: white;
+    padding: 0.3em;
+}
+
+.btnupd{
+    background-color: rgb(7, 112, 240);
+    border: 2px solid rgb(7, 112, 240) ;
+}
+
+.btnupd a{
+    color: white;
+    padding: 0.3em;
+}
